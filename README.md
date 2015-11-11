@@ -9,3 +9,6 @@
 * Victor Sabino
 
 ## Empresas
+* RasEng - Engenharia de Requisitos
+* SasQ - Impressão 3D de figurines
+* Auchidori - Consultoria
